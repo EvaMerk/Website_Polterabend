@@ -1,13 +1,15 @@
 /* Allgemeine Stile */
 @font-face {
     font-family: 'Milk & Honey';
-    /*src: url('./fonts/Milk And Honey.ttf') format('truetype'); */
-    src: url("https://evamerk.github.io/Website_Polterabend//fonts/Milk And Honey.ttf");
+    /* src: url('./fonts/Milk And Honey.ttf') format('truetype'); */
+    src: url("https://evamerk.github.io/Website_Polterabend//fonts/Milk And Honey.ttf") format('truetype');
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url('./fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
+    /* src: url('./fonts/Montserrat-VariableFont_wght.ttf') format('truetype');*/
+    src: url("https://evamerk.github.io/Website_Polterabend//fonts/Montserrat-VariableFont_wght.ttf") format('truetype');
+
     font-weight: 400;
     font-style: normal;
 }
