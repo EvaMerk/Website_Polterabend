@@ -3,7 +3,7 @@
     font-family: 'Milk & Honey';
     /* src: url('./fonts/Milk And Honey.ttf') format('truetype'); */
     /* src: url("https://evamerk.github.io/Website_Polterabend//fonts/Milk And Honey.ttf") format('truetype'); */
-    src: url("https://polterabend-eva-und-philipp.com//fonts/Milk And Honey.ttf") format('truetype');
+    src: url('./fonts/MilkAndHoney.ttf') format('truetype');
 
 }
 
@@ -11,7 +11,7 @@
     font-family: 'Montserrat';
     /* src: url('./fonts/Montserrat-VariableFont_wght.ttf') format('truetype'); */
     /* src: url("https://evamerk.github.io/Website_Polterabend//fonts/Montserrat-VariableFont_wght.ttf") format('truetype'); */
-    src: url("https://polterabend-eva-und-philipp.com//fonts/Montserrat-VariableFont_wght.ttf") format('truetype');
+    src: url('./fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
 
 
     font-weight: 400;
