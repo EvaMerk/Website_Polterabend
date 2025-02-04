@@ -35,7 +35,10 @@ h1, h2, h3 {
 h1 {
     font-size: 2em;
     font-feature-settings: 'ss04' 1; /* Stylistic Sets aktivieren */
+}
 
+h2 {
+    font-feature-settings: 'liga' 1;
 }
 
 h3 {
@@ -62,10 +65,6 @@ p, ul {
 .rot {
     background-color: #f83200;
     color: white;
-}
-
-.headline h2 {
-    font-feature-settings: 'clig' 0;
 }
 
 /* Line-up Liste */
